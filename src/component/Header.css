@@ -1,0 +1,19 @@
+.header ul li{
+    list-style: none;
+ 
+}
+
+.header ul li:hover{
+
+border-bottom: 2px solid red;
+cursor: pointer;
+font-size: 14px;
+}
+
+.nav{
+    background-color: black;
+    color: white;
+    display: flex;
+    justify-content: space-around;
+}
+

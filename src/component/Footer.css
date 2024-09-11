@@ -1,0 +1,18 @@
+.footer{
+    width: 100%;
+    background-color: black;
+    color: white;
+}
+
+.Footer-icons{
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+}
+
+.Footer-content ul li{
+   display: inline;
+   padding: 89px;
+   margin: 14px;
+
+}

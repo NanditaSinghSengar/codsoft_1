@@ -1,0 +1,26 @@
+.form{
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    align-self: center;
+    justify-content: center;
+    width:100%;
+    margin: auto;
+    /* background-color: rgba(0, 0, 255, 0.29); */
+   
+    width: 90vh;
+}
+
+.form button{
+    margin-top: 14px;
+    margin-bottom: 14px;
+    background-color: rgba(0, 255, 255, 0.318);
+    cursor: pointer;
+    border-radius:5px ;
+}
+
+.form button:hover{
+  position: relative;
+  bottom: 5px;
+}
